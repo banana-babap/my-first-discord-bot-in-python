@@ -21,5 +21,5 @@ async def ping(ctx):
     await ctx.send("Pong!")
 
 # Start the bot using the token you got earlier
-bot.run('MTM2NjA2MDQ4MDQwOTUwMTcyOA.G0TOJO._zt5pZOQtOdRbhSKCBFdzmgQI-1HlSA6YL5G28')
+bot.run('myToken')
 
